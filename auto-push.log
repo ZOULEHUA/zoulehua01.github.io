@@ -919,3 +919,13 @@ Your branch is ahead of 'origin/main' by 1 commit.
 nothing to commit, working tree clean
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    dfa7cdc..d948768  main -> main
+fatal: cannot lock ref 'HEAD': is at 9b97957125fe958b3e73ccf3c972f8c3a6c61e1b but expected d948768660b6d65990b273670269dd366f748a7d
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+   d948768..9b97957  main -> main
+fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
