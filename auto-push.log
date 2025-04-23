@@ -14,3 +14,6 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at efe1a6779e37df511f6868190d77c39b7a948ed4 but expected 5e65514696af31559377c23702e68f690509018c)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 fatal: cannot lock ref 'HEAD': is at b60f4c2ab0f591f7558b8b260b7388b169c48edd but expected efe1a6779e37df511f6868190d77c39b7a948ed4
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at b60f4c2ab0f591f7558b8b260b7388b169c48edd but expected efe1a6779e37df511f6868190d77c39b7a948ed4)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
