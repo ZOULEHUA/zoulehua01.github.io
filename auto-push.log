@@ -1980,3 +1980,22 @@ may have crashed in this repository earlier:
 remove the file manually to continue.
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    279a00a..bac02c4  main -> main
+fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 8192cf4] Auto-commit: 2025-04-23 16:57:09
+ 1 file changed, 16 insertions(+)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 8192cf4e8cf131a0be72a61f145f128cf875d21a but expected bac02c496ed65424e8dcce2a735975c81187af48)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
