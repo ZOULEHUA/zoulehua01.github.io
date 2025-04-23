@@ -1429,3 +1429,8 @@ remove the file manually to continue.
  1 file changed, 4 insertions(+)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    a315127..3e9b06a  main -> main
+[main 21bdf52] Auto-commit: 2025-04-23 16:55:23
+ 1 file changed, 11 insertions(+)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 21bdf524ccda0104fe00e79a163985e2d6d85d75 but expected 3e9b06a934820551369061ffd3f47ddb6113bf02)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
