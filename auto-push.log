@@ -594,3 +594,6 @@ may have crashed in this repository earlier:
 remove the file manually to continue.
 [main fd15c32] Auto-commit: 2025-04-23 16:53:04
  1 file changed, 4 insertions(+)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at fd15c32d284495e327953186e76f48893ededceb but expected 3a8db144fb235e697d6dcc4145bb71040f2f07f1)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
