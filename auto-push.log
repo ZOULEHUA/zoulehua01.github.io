@@ -2323,3 +2323,10 @@ remove the file manually to continue.
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at ca37ba8dfd3f6f9e77fad488718d1d087a2ad5b7 but expected 6e60f09d8315e77bfc9111e8428ce81f03cd3a32)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+On branch main
+Your branch is ahead of 'origin/main' by 9 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+   ca37ba8..083c2be  main -> main
