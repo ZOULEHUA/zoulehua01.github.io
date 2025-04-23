@@ -2271,3 +2271,22 @@ remove the file manually to continue.
  1 file changed, 11 insertions(+)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    d71f60c..eb17d42  main -> main
+fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main c3d7854] Auto-commit: 2025-04-23 16:57:51
+ 1 file changed, 11 insertions(+)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at c3d78540269eb635ea77cb6b992ba2da24cbda9b but expected eb17d42be23cdcd7c0e9490437154381c1de4229)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
