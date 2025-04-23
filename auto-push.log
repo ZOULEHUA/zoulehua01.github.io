@@ -1864,3 +1864,8 @@ Your branch is ahead of 'origin/main' by 2 commits.
 nothing to commit, working tree clean
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    86dd108..08387bc  main -> main
+[main 2fefe26] Auto-commit: 2025-04-23 16:56:50
+ 1 file changed, 2 insertions(+)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 2fefe264f590140d9b9627fceae7813d6127dffd but expected 08387bcbbc656575d6685d92236d57c02c508649)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
