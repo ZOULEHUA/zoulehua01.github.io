@@ -2190,3 +2190,6 @@ may have crashed in this repository earlier:
 remove the file manually to continue.
 [main 7d5a615] Auto-commit: 2025-04-23 16:57:37
  1 file changed, 10 insertions(+)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 7d5a6153fb0eb6d26d5d24e55a3ab4f6803257dc but expected b78733edfb6be98ad8d3a2ccc234017b57b31a93)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
