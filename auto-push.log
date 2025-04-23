@@ -2492,3 +2492,13 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    15eb7fb..a6084a8  main -> main
 [main c97a8dd] Auto-commit: 2025-04-23 16:58:23
  1 file changed, 2 insertions(+)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 77e6628239921e4382a18d3a26b4ba1cd6a70675 but expected 496896655c05787f50fb627430eab8a660a48580)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
