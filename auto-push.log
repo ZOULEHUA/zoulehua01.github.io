@@ -2830,3 +2830,12 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  1 file changed, 4 insertions(+)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    58329c8..a6a1087  main -> main
+fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 6f2b36e] Auto-commit: 2025-04-23 16:59:15
+ 1 file changed, 2 insertions(+)
