@@ -2075,3 +2075,8 @@ error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.githu
 fatal: cannot lock ref 'HEAD': is at 0918df659666b6f2a0dda43393aa027ba8d3413d but expected 93fc1325c403b16e94e6ba2e2b68916bd6d9a33e
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    93fc132..0918df6  main -> main
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
