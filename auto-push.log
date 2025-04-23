@@ -2765,3 +2765,6 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 [main 1308d8d] Auto-commit: 2025-04-23 16:59:01
  1 file changed, 3 insertions(+)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 1308d8d655a08337023f1e21fe90ec3f652b216f but expected b2b3e9dce0ea0e28a1f194c9505b8351a61e4228)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
