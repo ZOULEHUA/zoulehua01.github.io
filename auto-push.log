@@ -2016,3 +2016,6 @@ remove the file manually to continue.
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 95de92270cd8e2f318dabe9f70837b23fe8c2708 but expected f4837821c106746fbb25bba59220e12c4318fe25)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+fatal: cannot lock ref 'HEAD': is at 7d553337edca32fa4e49249f69157d907372f45b but expected 95de92270cd8e2f318dabe9f70837b23fe8c2708
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+   95de922..7d55333  main -> main
