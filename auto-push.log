@@ -225,3 +225,19 @@ error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.githu
 fatal: cannot lock ref 'HEAD': is at d63b79df314b80f9c8634aec07e23dc87e8be5b7 but expected 7413a5b884d561ec1650d37a9f9709dde2cf7660
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    7413a5b..d63b79d  main -> main
+fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+   d63b79d..607e187  main -> main
