@@ -5,6 +5,7 @@
 
 # 使用 fswatch 监听目录变动并执行 commit 和 push
 fswatch -o . | while read num; do
+  echo "Changes detected, committing..."
   git add .
   git commit -m "Automated commit for changes detected by fswatch"
   git push origin main
