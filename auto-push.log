@@ -522,9 +522,9 @@ Changes detected, committing...
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    f4661af..b528e66  main -> main
 Changes detected, committing...
-s(-)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
- ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 586873c9b290dfbca799798dc3cce2961f994117 but expected 0faa1a77c2dadfec1bdcb91974a31f1ac2ff5f9a)
+[main 14a7f84] Auto-commit: 2025-04-23 17:23:31
+ 1 file changed, 9 insertions(+), 3 deletions(-)
+annot lock ref 'refs/heads/main': is at 586873c9b290dfbca799798dc3cce2961f994117 but expected 0faa1a77c2dadfec1bdcb91974a31f1ac2ff5f9a)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 Changes detected, committing...
 [main e86b20c] Auto-commit: 2025-04-23 17:19:43
@@ -17317,3 +17317,11 @@ Untracked files:
 	zoulehua01.github.io/
 
 no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
