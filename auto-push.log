@@ -785,8 +785,9 @@ remove the file manually to continue.
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    6b884ca..8193780  main -> main
 Changes detected, committing...
- https://github.com/ZOULEHUA/zoulehua01.github.io.git
- ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 4d3f04ca0153849130c04ae3a72d3275ffb2595b but expected fba768d91e57b1d6a011fb51133b1a3164ac566a)
+[main 3268954] Auto-commit: 2025-04-23 17:25:30
+ 1 file changed, 5 insertions(+), 3 deletions(-)
+ock ref 'refs/heads/main': is at 4d3f04ca0153849130c04ae3a72d3275ffb2595b but expected fba768d91e57b1d6a011fb51133b1a3164ac566a)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 Changes detected, committing...
 [main 0c3795e] Auto-commit: 2025-04-23 17:21:40
@@ -1283,7 +1284,8 @@ no changes added to commit (use "git add" and/or "git commit -a")
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at aed5e65f55c1ab945e97e584c4a4d4e7e498983b but expected 6b884cafec2db4f583b02198ad5a409d2dcc3a2a)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
-.com/ZOULEHUA/zoulehua01.github.io.git
+Changes detected, committing...
+io.git
    b5cceab..d7e9f52  main -> main
 Changes detected, committing...
 fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
