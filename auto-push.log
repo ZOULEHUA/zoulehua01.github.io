@@ -11871,35 +11871,10 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 [main 1bd2aaa] Auto-commit: 2025-04-23 17:08:27
  1 file changed, 85 insertions(+), 9 deletions(-)
-py.swp
-	.idlerc/
-	.ipython/
-	.local/
-	.matplotlib/
-	.mono/
-	.npm/
-	.ollama/
-	.pyenv/
-	.python_history
-	.ssh/
-	.swiftpm/
-	.trae-aicc/
-	.trae/
-	.viminfo
-	.vscode/
-	.zprofile
-	.zprofile.pysave
-	.zsh_history
-	.zsh_sessions/
-	.zshrc
-	AppData/
-	Applications/
-	Create
-	Desktop/
-	Documents/
-	Downloads/
-	JoplinBackup/
-	"Leo\345\244\247\347\216\213"
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 1bd2aaaa82be8c8a903d2588f48bf6fb73cb6d24 but expected 7ae4da9c7e9e1ce6f304a34ceff684561f3ab932)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+5\244\247\347\216\213"
 	Library/
 	LibreTranslate/
 	Movies/
