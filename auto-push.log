@@ -9992,16 +9992,9 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    fd01e2d..0d508ec  main -> main
 [main 003d081] Auto-commit: 2025-04-23 17:03:07
  1 file changed, 87 insertions(+), 8 deletions(-)
-lib/
-	.mono/
-	.npm/
-	.ollama/
-	.pyenv/
-	.python_history
-	.ssh/
-	.swiftpm/
-	.trae-aicc/
-	.trae/
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+   9c415a2..003d081  main -> main
+rae/
 	.viminfo
 	.vscode/
 	.zprofile
