@@ -10422,20 +10422,12 @@ error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.githu
  1 file changed, 4 insertions(+), 27 deletions(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    e5e179c..bc33ed1  main -> main
--env/
-	libretranslate.log
-	llama-models/
-	llama_model.bin
-	pyproject.toml
-	start_interpreter.command
-	watchdog.log
-	zoulehua.github.io/
-	zoulehua01.github.io/
-
-no changes added to commit (use "git add" and/or "git commit -a")
+[main b33f049] Auto-commit: 2025-04-23 17:04:14
+ 1 file changed, 86 insertions(+), 10 deletions(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
- ! [rejected]        main -> main (fetch first)
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at b33f04903e034f8ace9efe577a181a381fb8e8a4 but expected bc33ed1524aad8cb11355d2235789a4136d11c87)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+t'
 hint: Updates were rejected because the remote contains work that you do not
 hint: have locally. This is usually caused by another repository pushing to
 hint: the same ref. If you want to integrate the remote changes, use
@@ -15126,3 +15118,11 @@ Untracked files:
 	zoulehua01.github.io/
 
 no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
