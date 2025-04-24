@@ -10359,8 +10359,9 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  1 file changed, 87 insertions(+), 3 deletions(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    473d743..ad64915  main -> main
-s, the default), m (minutes), h (hours), or d (days).
-warning: could not open directory '.Trash/': Operation not permitted
+[main e5bd840] Auto-commit: 2025-04-23 17:04:05
+ 1 file changed, 87 insertions(+), 4 deletions(-)
+ Operation not permitted
 On branch main
 Your branch is ahead of 'origin/main' by 1 commit.
   (use "git push" to publish your local commits)
