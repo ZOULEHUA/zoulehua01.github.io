@@ -519,3 +519,6 @@ may have crashed in this repository earlier:
 remove the file manually to continue.
 [main 9f0af81] Auto-commit: 2025-04-23 17:30:25
  1 file changed, 8 insertions(+)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 4fc757d92bab48536fc58c9e095327a99302e647 but expected c41f982897d6ca178716dc6883fbde4ceb016cf5)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
