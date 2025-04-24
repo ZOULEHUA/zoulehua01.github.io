@@ -2014,3 +2014,6 @@ may have crashed in this repository earlier:
 remove the file manually to continue.
 [main d8811f0] Auto-commit: 2025-04-23 17:00:01
  1 file changed, 105 insertions(+), 1 deletion(-)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at d8811f0ab7616a56696c70dddacf7cc88370bfc2 but expected 6cef86094f150d5adfe7a9de8a6afbe319a9adf8)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
