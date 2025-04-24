@@ -9190,17 +9190,15 @@ Untracked files:
 	zoulehua01.github.io/
 
 no changes added to commit (use "git add" and/or "git commit -a")
-her git process seems to be running in this repository, e.g.
-an editor opened by 'git commit'. Please make sure all processes
-are terminated then try again. If it still fails, a git process
-may have crashed in this repository earlier:
-remove the file manually to continue.
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   2560ab2..05af3de  main -> main
-fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
-
-Another git process seems to be running in this repository, e.g.
-an editor opened by 'git commit'. Please make sure all processes
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+ned by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
@@ -9333,3 +9331,10 @@ error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.githu
  1 file changed, 3 insertions(+)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    51a6165..6e1c77d  main -> main
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+   6e1c77d..c6e1ac3  main -> main
