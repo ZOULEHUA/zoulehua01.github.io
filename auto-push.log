@@ -1316,8 +1316,8 @@ Changes detected, committing...
  1 file changed, 2 insertions(+), 1 deletion(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    52251ca..8e0f0ee  main -> main
-ository, e.g.
-an editor opened by 'git commit'. Please make sure all processes
+Changes detected, committing...
+y 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
