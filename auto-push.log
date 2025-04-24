@@ -8638,19 +8638,20 @@ Untracked files:
 	zoulehua01.github.io/
 
 no changes added to commit (use "git add" and/or "git commit -a")
- this repository, e.g.
-an editor opened by 'git commit'. Please make sure all processes
-are terminated then try again. If it still fails, a git process
-may have crashed in this repository earlier:
-remove the file manually to continue.
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
- ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 101b9e86d8dbc3c28d0f8261f8b45799d78b3347 but expected 61c969e3c1dbeab71a464f4d944173d1f5c13b71)
+ ! [rejected]        main -> main (fetch first)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
-[main f334450] Auto-commit: 2025-04-23 17:01:13
- 1 file changed, 3 insertions(+)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   101b9e8..f334450  main -> main
-fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+sleep: invalid time interval: git
+sleep: invalid time interval: add
+sleep: invalid time interval: .
+usage: sleep number[unit] [...]
+Unit can be 's' (seconds, the default), m (minutes), h (hours), or d (days).
+o create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
 
 Another git process seems to be running in this repository, e.g.
 an editor opened by 'git commit'. Please make sure all processes
