@@ -11834,15 +11834,9 @@ remove the file manually to continue.
  1 file changed, 90 insertions(+), 9 deletions(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    0baba4a..73605f0  main -> main
-.cache/
-	.config/
-	.cursor/
-	.docker/
-	.git-credentials
-	.gitconfig
-	.gitignore
-	.gomoku.py.swo
-	.gomoku.py.swp
+[main cbb2a31] Auto-commit: 2025-04-23 17:08:19
+ 1 file changed, 11 insertions(+), 6 deletions(-)
+gomoku.py.swp
 	.idlerc/
 	.ipython/
 	.local/
