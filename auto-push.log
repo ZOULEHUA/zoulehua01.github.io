@@ -10176,9 +10176,9 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    6df0d8c..55b15ec  main -> main
 [main d589888] Auto-commit: 2025-04-23 17:03:36
  1 file changed, 87 insertions(+), 3 deletions(-)
-ommit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+   8b9716d..d589888  main -> main
+ile>..." to discard changes in working directory)
 	modified:   package-lock.json
 	modified:   package.json
 
