@@ -10012,13 +10012,10 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    562c781..ec0a566  main -> main
 [main 5f01764] Auto-commit: 2025-04-23 17:03:10
  1 file changed, 89 insertions(+), 3 deletions(-)
-int: 'git pull' before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-sleep: invalid time interval: git
-sleep: invalid time interval: add
-sleep: invalid time interval: .
-usage: sleep number[unit] [...]
-Unit can be 's' (seconds, the default), m (minutes), h (hours), or d (days).
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 9ba2f246c9fa4638ca47cf4366825a2253310720 but expected ec0a56683e187732ad57ddf3f496bacd091a0628)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+s).
 warning: could not open directory '.Trash/': Operation not permitted
 On branch main
 Your branch is ahead of 'origin/main' by 1 commit.
