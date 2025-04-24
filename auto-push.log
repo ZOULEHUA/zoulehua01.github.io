@@ -11483,12 +11483,10 @@ may have crashed in this repository earlier:
 remove the file manually to continue.
 [main fb1e16f] Auto-commit: 2025-04-23 17:07:14
  1 file changed, 61 insertions(+)
-mote contains work that you do not
-hint: have locally. This is usually caused by another repository pushing to
-hint: the same ref. If you want to integrate the remote changes, use
-hint: 'git pull' before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-sleep: invalid time interval: git
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at fb1e16fb6aff36940c788be14bbd8e013431fb4a but expected 655b6ceeb56856d6c55811e8cbf3103dcd3c8b9d)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+rval: git
 sleep: invalid time interval: add
 sleep: invalid time interval: .
 usage: sleep number[unit] [...]
