@@ -9878,35 +9878,10 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 [main ce7dd76] Auto-commit: 2025-04-23 17:02:46
  1 file changed, 4 insertions(+), 10 deletions(-)
-
-	.gitignore
-	.gomoku.py.swo
-	.gomoku.py.swp
-	.idlerc/
-	.ipython/
-	.local/
-	.matplotlib/
-	.mono/
-	.npm/
-	.ollama/
-	.pyenv/
-	.python_history
-	.ssh/
-	.swiftpm/
-	.trae-aicc/
-	.trae/
-	.viminfo
-	.vscode/
-	.zprofile
-	.zprofile.pysave
-	.zsh_history
-	.zsh_sessions/
-	.zshrc
-	AppData/
-	Applications/
-	Create
-	Desktop/
-	Documents/
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at ce7dd7695d1412971c7e409c83be8e975053e220 but expected aa444e196c5fd32db218e079fa28399f779fb13b)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+s/
 	Downloads/
 	JoplinBackup/
 	"Leo\345\244\247\347\216\213"
