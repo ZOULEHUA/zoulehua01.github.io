@@ -10528,27 +10528,10 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    8f3e53d..bf805be  main -> main
 [main b12e845] Auto-commit: 2025-04-23 17:04:34
  1 file changed, 11 insertions(+), 4 deletions(-)
-e-lock.json
-	modified:   package.json
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	.CFUserTextEncoding
-	.DS_Store
-	.android/
-	.bash_history
-	.cache/
-	.config/
-	.cursor/
-	.docker/
-	.git-credentials
-	.gitconfig
-	.gitignore
-	.gomoku.py.swo
-	.gomoku.py.swp
-	.idlerc/
-	.ipython/
-	.local/
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at b3cb981e8b6de4594f37fa3ca0b407ef0ca8e996 but expected 0f5e652e9f717e2ebcb15fde83ee1932b6f88c8f)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+al/
 	.matplotlib/
 	.mono/
 	.npm/
