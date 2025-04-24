@@ -11038,13 +11038,10 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 [main c2c031a] Auto-commit: 2025-04-23 17:06:01
  1 file changed, 11 insertions(+), 4 deletions(-)
-: 'git pull' before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-sleep: invalid time interval: git
-sleep: invalid time interval: add
-sleep: invalid time interval: .
-usage: sleep number[unit] [...]
-Unit can be 's' (seconds, the default), m (minutes), h (hours), or d (days).
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at c2c031a3518904ecaed01364c31bd02b74b76e43 but expected 2754853144e6403ccb802abc4d5733244d4beb4b)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+
 warning: could not open directory '.Trash/': Operation not permitted
 On branch main
 Your branch is ahead of 'origin/main' by 1 commit.
