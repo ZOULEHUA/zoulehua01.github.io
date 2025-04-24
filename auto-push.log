@@ -10436,14 +10436,10 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
 Everything up-to-date
 [main c4edee9] Auto-commit: 2025-04-23 17:04:17
  1 file changed, 86 insertions(+), 1 deletion(-)
-
-sleep: invalid time interval: .
-usage: sleep number[unit] [...]
-Unit can be 's' (seconds, the default), m (minutes), h (hours), or d (days).
-warning: could not open directory '.Trash/': Operation not permitted
-On branch main
-Your branch is ahead of 'origin/main' by 1 commit.
-  (use "git push" to publish your local commits)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at c4edee9fa63802cd30804aa017dd038bd1f498b6 but expected b7fb1bf83263816f1d43c8e8421c56c9401ca0f0)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+ommits)
 
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
