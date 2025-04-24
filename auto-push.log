@@ -28275,3 +28275,4 @@ nothing to commit, working tree clean
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  ! [remote rejected]   main -> main (cannot lock ref 'refs/heads/main': is at ddd27244403422fd577ef0c652f9e250f5dcdb65 but expected 320b1e4bd3847128a951af43a2656178c9c63432)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+Changes detected, committing...
