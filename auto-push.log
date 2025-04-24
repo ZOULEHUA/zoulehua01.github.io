@@ -10208,8 +10208,9 @@ may have crashed in this repository earlier:
 remove the file manually to continue.
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    20692d2..60043d8  main -> main
-, m (minutes), h (hours), or d (days).
-warning: could not open directory '.Trash/': Operation not permitted
+[main c9c0771] Auto-commit: 2025-04-23 17:03:42
+ 1 file changed, 18 insertions(+), 10 deletions(-)
+ermitted
 On branch main
 Your branch is ahead of 'origin/main' by 1 commit.
   (use "git push" to publish your local commits)
