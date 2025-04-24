@@ -9787,27 +9787,10 @@ remove the file manually to continue.
 Everything up-to-date
 [main fc47219] Auto-commit: 2025-04-23 17:02:31
  1 file changed, 68 insertions(+), 9 deletions(-)
-
-	Movies/
-	Music/
-	Pictures/
-	Public/
-	README.md
-	VERSION
-	WeChatProjects/
-	ai_completion/
-	"app \345\260\235\350\257\225\347\211\210/"
-	auto-push.log
-	get-pip.py
-	ios_autorun.sh
-	libretranslate-env/
-	libretranslate.log
-	llama-models/
-	llama_model.bin
-	pyproject.toml
-	start_interpreter.command
-	watchdog.log
-	zoulehua.github.io/
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at fc472190b801becc9bb9fa39325a139f01a5dba5 but expected cce94d87b09950b7b70605ab7533852a67bd7d48)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+.github.io/
 	zoulehua01.github.io/
 
 no changes added to commit (use "git add" and/or "git commit -a")
