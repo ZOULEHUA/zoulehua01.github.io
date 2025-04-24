@@ -11272,11 +11272,8 @@ error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.githu
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 348dbe9a842ae6c2c53840b2336ecdbd0f7e14d4 but expected 9446cf4172522af892eb99d359d3bd98d26978a0)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
-tProjects/
-	ai_completion/
-	"app \345\260\235\350\257\225\347\211\210/"
-	auto-push.log
-	get-pip.py
+[main bf4a770] Auto-commit: 2025-04-23 17:06:39
+ 1 file changed, 12 insertions(+), 27 deletions(-)
 	ios_autorun.sh
 	libretranslate-env/
 	libretranslate.log
