@@ -10566,18 +10566,10 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 [main 2bac531] Auto-commit: 2025-04-23 17:04:44
  1 file changed, 12 insertions(+), 25 deletions(-)
-libretranslate.log
-	llama-models/
-	llama_model.bin
-	pyproject.toml
-	start_interpreter.command
-	watchdog.log
-	zoulehua.github.io/
-	zoulehua01.github.io/
-
-no changes added to commit (use "git add" and/or "git commit -a")
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
- ! [rejected]        main -> main (fetch first)
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 2bac531a0e4b28390a03f6dc02ff5ae69dc45146 but expected 12a8a4050218ae1bdee7faefcc0a2504ef5071c6)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+rst)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 hint: Updates were rejected because the remote contains work that you do not
 hint: have locally. This is usually caused by another repository pushing to
