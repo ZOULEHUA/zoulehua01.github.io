@@ -9,4 +9,7 @@ fswatch -o . | while read num; do
   git add .
   git commit -m "Auto-commit: $(date '+%Y-%m-%d %H:%M:%S')"
   git push origin main
+
+  # 冷却一下，避免过于频繁造成锁冲突
+  sleep 2  # 冷却时间设置为2秒
 done
