@@ -11402,7 +11402,69 @@ may have crashed in this repository earlier:
 remove the file manually to continue.
 [main 78d3c21] Auto-commit: 2025-04-23 17:07:00
  1 file changed, 66 insertions(+), 9 deletions(-)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 78d3c2131e3b0ea0f331b80e7e629b376fc45932 but expected 8c4b329512fa34f7bdc6e23a4a044cdcff0f2c6e)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
 
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+On branch main
+Your branch is ahead of 'origin/main' by 5 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   auto-push.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 795dda73b638fedce605486b52b7fbd91750a3d0 but expected 78d3c2131e3b0ea0f331b80e7e629b376fc45932)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+file.pysave
+	.zsh_history
+	.zsh_sessions/
+	.zshrc
+	AppData/
+	Applications/
+	Create
+	Desktop/
+	Documents/
+	Downloads/
+	JoplinBackup/
+	"Leo\345\244\247\347\216\213"
+	Library/
+	LibreTranslate/
+	Movies/
+	Music/
+	Pictures/
+	Public/
+	README.md
+	VERSION
+	WeChatProjects/
+	ai_completion/
+	"app \345\260\235\350\257\225\347\211\210/"
+	auto-push.log
+	get-pip.py
+	ios_autorun.sh
+	libretranslate-env/
+	libretranslate.log
+	llama-models/
+	llama_model.bin
+	pyproject.toml
+	start_interpreter.command
+	watchdog.log
+	zoulehua.github.io/
+	zoulehua01.github.io/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 hint: Updates were rejected because the remote contains work that you do not
 hint: have locally. This is usually caused by another repository pushing to
 hint: the same ref. If you want to integrate the remote changes, use
