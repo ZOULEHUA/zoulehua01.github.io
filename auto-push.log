@@ -10243,14 +10243,10 @@ Your branch is ahead of 'origin/main' by 7 commits.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
-rectory '.Trash/': Operation not permitted
-On branch main
-Your branch is ahead of 'origin/main' by 1 commit.
-  (use "git push" to publish your local commits)
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at c6c12e322af7d5c9be1d47bad700c969712204fa but expected 5216e2290477a2eb483a0da8141134e621fb7c88)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+ory)
 	modified:   package-lock.json
 	modified:   package.json
 
