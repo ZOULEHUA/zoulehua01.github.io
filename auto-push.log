@@ -29720,3 +29720,6 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
 Changes detected, committing...
 [main 60f45f30] Auto-commit: 2025-04-24 12:41:55
  1 file changed, 1 insertion(+)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected]   main -> main (cannot lock ref 'refs/heads/main': is at 5ce4cdf9b9f629dcccee0a8b99fafd92c224a928 but expected a7e15dfc7ea2c3053dd313ad6ec7b428cf3eb150)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
