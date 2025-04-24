@@ -9886,11 +9886,9 @@ error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.githu
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 514b346818b7fd377609ab10b4d70a7d5185035a but expected ce7dd7695d1412971c7e409c83be8e975053e220)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
-
-	zoulehua01.github.io/
-
-no changes added to commit (use "git add" and/or "git commit -a")
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+[main c9b58ed] Auto-commit: 2025-04-23 17:02:48
+ 1 file changed, 12 insertions(+), 19 deletions(-)
+://github.com/ZOULEHUA/zoulehua01.github.io.git
  ! [rejected]        main -> main (fetch first)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 hint: Updates were rejected because the remote contains work that you do not
