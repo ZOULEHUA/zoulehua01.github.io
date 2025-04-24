@@ -10861,15 +10861,9 @@ Everything up-to-date
  1 file changed, 2 insertions(+), 2 deletions(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    197035d..239af14  main -> main
-itted)
-	.CFUserTextEncoding
-	.DS_Store
-	.android/
-	.bash_history
-	.cache/
-	.config/
-	.cursor/
-	.docker/
+[main 84a7b0a] Auto-commit: 2025-04-23 17:05:33
+ 1 file changed, 89 insertions(+), 6 deletions(-)
+cker/
 	.git-credentials
 	.gitconfig
 	.gitignore
