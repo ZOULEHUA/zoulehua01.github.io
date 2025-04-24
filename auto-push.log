@@ -10266,8 +10266,9 @@ remove the file manually to continue.
  1 file changed, 82 insertions(+), 7 deletions(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    fc1537c..9b72c1e  main -> main
-ejected]        main -> main (fetch first)
-error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+[main 617bb74] Auto-commit: 2025-04-23 17:03:51
+ 1 file changed, 75 insertions(+), 9 deletions(-)
+ZOULEHUA/zoulehua01.github.io.git'
 hint: Updates were rejected because the remote contains work that you do not
 hint: have locally. This is usually caused by another repository pushing to
 hint: the same ref. If you want to integrate the remote changes, use
