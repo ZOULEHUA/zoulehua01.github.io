@@ -10451,14 +10451,9 @@ error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.githu
  1 file changed, 4 insertions(+), 22 deletions(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    e71042a..b39203c  main -> main
-ations/
-	Create
-	Desktop/
-	Documents/
-	Downloads/
-	JoplinBackup/
-	"Leo\345\244\247\347\216\213"
-	Library/
+[main e71069c] Auto-commit: 2025-04-23 17:04:21
+ 1 file changed, 81 insertions(+), 2 deletions(-)
+ibrary/
 	LibreTranslate/
 	Movies/
 	Music/
