@@ -7363,37 +7363,86 @@ sleep: invalid time interval: add
 sleep: invalid time interval: .
 usage: sleep number[unit] [...]
 Unit can be 's' (seconds, the default), m (minutes), h (hours), or d (days).
-changed, 2 insertions(+)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   ceb4277..26b1fe9  main -> main
-[main 715b198] Auto-commit: 2025-04-23 16:59:41
- 1 file changed, 11 insertions(+), 1 deletion(-)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   9579031..715b198  main -> main
-[main 57f4a78] Auto-commit: 2025-04-23 16:59:42
- 1 file changed, 95 insertions(+), 1 deletion(-)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   cdd2e68..57f4a78  main -> main
-[main 15b7bab] Auto-commit: 2025-04-23 16:59:43
- 1 file changed, 8 insertions(+), 1 deletion(-)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   4e9269c..15b7bab  main -> main
-[main 11bca31] Auto-commit: 2025-04-23 16:59:44
- 1 file changed, 11 insertions(+), 1 deletion(-)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   659df23..11bca31  main -> main
-[main 38f6818] Auto-commit: 2025-04-23 16:59:45
- 1 file changed, 87 insertions(+), 1 deletion(-)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   71937e9..38f6818  main -> main
-fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
+warning: could not open directory '.Trash/': Operation not permitted
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
 
-Another git process seems to be running in this repository, e.g.
-an editor opened by 'git commit'. Please make sure all processes
-are terminated then try again. If it still fails, a git process
-may have crashed in this repository earlier:
-remove the file manually to continue.
-[main 874e7e7] Auto-commit: 2025-04-23 16:59:46
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   package-lock.json
+	modified:   package.json
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.CFUserTextEncoding
+	.DS_Store
+	.android/
+	.bash_history
+	.cache/
+	.config/
+	.cursor/
+	.docker/
+	.git-credentials
+	.gitconfig
+	.gitignore
+	.gomoku.py.swo
+	.gomoku.py.swp
+	.idlerc/
+	.ipython/
+	.local/
+	.matplotlib/
+	.mono/
+	.npm/
+	.ollama/
+	.pyenv/
+	.python_history
+	.ssh/
+	.swiftpm/
+	.trae-aicc/
+	.trae/
+	.viminfo
+	.vscode/
+	.zprofile
+	.zprofile.pysave
+	.zsh_history
+	.zsh_sessions/
+	.zshrc
+	AppData/
+	Applications/
+	Create
+	Desktop/
+	Documents/
+	Downloads/
+	JoplinBackup/
+	"Leo\345\244\247\347\216\213"
+	Library/
+	LibreTranslate/
+	Movies/
+	Music/
+	Pictures/
+	Public/
+	README.md
+	VERSION
+	WeChatProjects/
+	ai_completion/
+	"app \345\260\235\350\257\225\347\211\210/"
+	auto-push.log
+	get-pip.py
+	ios_autorun.sh
+	libretranslate-env/
+	libretranslate.log
+	llama-models/
+	llama_model.bin
+	pyproject.toml
+	start_interpreter.command
+	watchdog.log
+	zoulehua.github.io/
+	zoulehua01.github.io/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+t: 2025-04-23 16:59:46
  1 file changed, 87 insertions(+), 1 deletion(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 874e7e7fd535db3e61f7998341b6bb4218496e86 but expected 1bb134d63c4634d53910b1330579864f9c744a5f)
@@ -8057,3 +8106,6 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 [main b100385] Auto-commit: 2025-04-23 17:01:40
  1 file changed, 3 insertions(+)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at b10038532e7435ac6e84108b9486e6f15bffa974 but expected e71e05d0f51ee02c798b6f27351ecafc346566dc)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
