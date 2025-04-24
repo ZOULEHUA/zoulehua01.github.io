@@ -7,6 +7,6 @@
 fswatch -o . | while read num; do
   echo "Changes detected, committing..."
   git add .
-  git commit -m "Automated commit for changes detected by fswatch"
+  git commit -m "Auto-commit: $(date '+%Y-%m-%d %H:%M:%S')"
   git push origin main
 done
