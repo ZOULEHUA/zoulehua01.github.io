@@ -8730,18 +8730,15 @@ Untracked files:
 	zoulehua01.github.io/
 
 no changes added to commit (use "git add" and/or "git commit -a")
-793..314cc92  main -> main
-[main af173f9] Auto-commit: 2025-04-23 17:01:18
- 1 file changed, 104 insertions(+), 1 deletion(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   314cc92..af173f9  main -> main
-[main 08d4406] Auto-commit: 2025-04-23 17:01:19
- 1 file changed, 87 insertions(+), 1 deletion(-)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   992bcca..08d4406  main -> main
-[main 0d68136] Auto-commit: 2025-04-23 17:01:20
- 1 file changed, 11 insertions(+), 1 deletion(-)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+zoulehua01.github.io.git
    638a266..0d68136  main -> main
 [main f85c426] Auto-commit: 2025-04-23 17:01:21
  1 file changed, 95 insertions(+), 1 deletion(-)
@@ -9002,3 +8999,7 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 2f04145fd01abe08661132f680b2d240b0e9a8f0 but expected 7f7fc791a0dfbd637e193daeafb272cb4afd574b)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+[main 27e2634] Auto-commit: 2025-04-23 17:02:03
+ 1 file changed, 79 insertions(+), 24 deletions(-)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+   2f04145..27e2634  main -> main
