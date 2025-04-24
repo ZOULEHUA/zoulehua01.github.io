@@ -11028,26 +11028,10 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    96d5a83..abdab01  main -> main
 [main 65b6ccf] Auto-commit: 2025-04-23 17:05:59
  1 file changed, 87 insertions(+), 9 deletions(-)
-/
-	Music/
-	Pictures/
-	Public/
-	README.md
-	VERSION
-	WeChatProjects/
-	ai_completion/
-	"app \345\260\235\350\257\225\347\211\210/"
-	auto-push.log
-	get-pip.py
-	ios_autorun.sh
-	libretranslate-env/
-	libretranslate.log
-	llama-models/
-	llama_model.bin
-	pyproject.toml
-	start_interpreter.command
-	watchdog.log
-	zoulehua.github.io/
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 60b016cf91b711a3e2de32adbfcd9a511fe93125 but expected d2d665ec032d31694bd8e1c4bb795d5e48c456f8)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+io/
 	zoulehua01.github.io/
 
 no changes added to commit (use "git add" and/or "git commit -a")
