@@ -10942,35 +10942,10 @@ Changes not staged for commit:
 	modified:   auto-push.log
 
 no changes added to commit (use "git add" and/or "git commit -a")
-Encoding
-	.DS_Store
-	.android/
-	.bash_history
-	.cache/
-	.config/
-	.cursor/
-	.docker/
-	.git-credentials
-	.gitconfig
-	.gitignore
-	.gomoku.py.swo
-	.gomoku.py.swp
-	.idlerc/
-	.ipython/
-	.local/
-	.matplotlib/
-	.mono/
-	.npm/
-	.ollama/
-	.pyenv/
-	.python_history
-	.ssh/
-	.swiftpm/
-	.trae-aicc/
-	.trae/
-	.viminfo
-	.vscode/
-	.zprofile
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 0505f31d483222ca8abc442f2154ae740fc09e25 but expected 49eebde59532e854c7c5e5a667c868e005704ca3)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+ofile
 	.zprofile.pysave
 	.zsh_history
 	.zsh_sessions/
