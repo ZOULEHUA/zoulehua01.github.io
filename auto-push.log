@@ -9800,10 +9800,9 @@ error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.githu
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at b9ab7d3c12e3d5c12de1d82cd36f3297945eb2c2 but expected 86859bae5e0cc06e05134365250f90c3b4eb7332)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
-d (days).
-warning: could not open directory '.Trash/': Operation not permitted
-On branch main
-Your branch is ahead of 'origin/main' by 1 commit.
+[main 723c56d] Auto-commit: 2025-04-23 17:02:34
+ 1 file changed, 12 insertions(+), 8 deletions(-)
+ branch is ahead of 'origin/main' by 1 commit.
   (use "git push" to publish your local commits)
 
 Changes not staged for commit:
