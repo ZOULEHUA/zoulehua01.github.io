@@ -11764,14 +11764,10 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    6515225..da7dbc0  main -> main
 [main b75968f] Auto-commit: 2025-04-23 17:08:05
  1 file changed, 11 insertions(+), 2 deletions(-)
-our branch is ahead of 'origin/main' by 1 commit.
-  (use "git push" to publish your local commits)
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   package-lock.json
-	modified:   package.json
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 8ee30062873fd1b5b58ff03ba2ab11e7f267e4b5 but expected a74c3e8756533a9b267bc6e5433d21569b46ea26)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+on
 
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
