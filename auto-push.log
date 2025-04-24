@@ -691,8 +691,8 @@ remove the file manually to continue.
  1 file changed, 90 insertions(+), 2 deletions(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    c085356..c6eb8f1  main -> main
-a git process
-may have crashed in this repository earlier:
+Changes detected, committing...
+n this repository earlier:
 remove the file manually to continue.
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 98fd9fd0fdf746babe17cebaf99b9327d865f87f but expected ec31421444e474e6b5a62c0ffc1dc34e4e779dc0)
@@ -22518,3 +22518,11 @@ Untracked files:
 	zoulehua01.github.io/
 
 no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
