@@ -10622,8 +10622,9 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    83b385c..fbacc4e  main -> main
 [main 632f43d] Auto-commit: 2025-04-23 17:04:53
  1 file changed, 87 insertions(+), 3 deletions(-)
-conds, the default), m (minutes), h (hours), or d (days).
-warning: could not open directory '.Trash/': Operation not permitted
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+   cfe02ea..632f43d  main -> main
+y '.Trash/': Operation not permitted
 On branch main
 Your branch is ahead of 'origin/main' by 1 commit.
   (use "git push" to publish your local commits)
@@ -17063,3 +17064,82 @@ sleep: invalid time interval: add
 sleep: invalid time interval: .
 usage: sleep number[unit] [...]
 Unit can be 's' (seconds, the default), m (minutes), h (hours), or d (days).
+warning: could not open directory '.Trash/': Operation not permitted
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   package-lock.json
+	modified:   package.json
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.CFUserTextEncoding
+	.DS_Store
+	.android/
+	.bash_history
+	.cache/
+	.config/
+	.cursor/
+	.docker/
+	.git-credentials
+	.gitconfig
+	.gitignore
+	.gomoku.py.swo
+	.gomoku.py.swp
+	.idlerc/
+	.ipython/
+	.local/
+	.matplotlib/
+	.mono/
+	.npm/
+	.ollama/
+	.pyenv/
+	.python_history
+	.ssh/
+	.swiftpm/
+	.trae-aicc/
+	.trae/
+	.viminfo
+	.vscode/
+	.zprofile
+	.zprofile.pysave
+	.zsh_history
+	.zsh_sessions/
+	.zshrc
+	AppData/
+	Applications/
+	Create
+	Desktop/
+	Documents/
+	Downloads/
+	JoplinBackup/
+	"Leo\345\244\247\347\216\213"
+	Library/
+	LibreTranslate/
+	Movies/
+	Music/
+	Pictures/
+	Public/
+	README.md
+	VERSION
+	WeChatProjects/
+	ai_completion/
+	"app \345\260\235\350\257\225\347\211\210/"
+	auto-push.log
+	get-pip.py
+	ios_autorun.sh
+	libretranslate-env/
+	libretranslate.log
+	llama-models/
+	llama_model.bin
+	pyproject.toml
+	start_interpreter.command
+	watchdog.log
+	zoulehua.github.io/
+	zoulehua01.github.io/
+
+no changes added to commit (use "git add" and/or "git commit -a")
