@@ -1,0 +1,2 @@
+@reboot bash
+@reboot cd /Users/zlh/zoulehua01.github.io && nohup ./auto-push.sh > /Users/zlh/zoulehua01.github.io/auto-push.log 2>&1
