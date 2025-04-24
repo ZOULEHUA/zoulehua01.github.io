@@ -10721,21 +10721,10 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    38b4aa8..57e9535  main -> main
 [main d150b55] Auto-commit: 2025-04-23 17:05:06
  1 file changed, 11 insertions(+), 9 deletions(-)
-g
-	get-pip.py
-	ios_autorun.sh
-	libretranslate-env/
-	libretranslate.log
-	llama-models/
-	llama_model.bin
-	pyproject.toml
-	start_interpreter.command
-	watchdog.log
-	zoulehua.github.io/
-	zoulehua01.github.io/
-
-no changes added to commit (use "git add" and/or "git commit -a")
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at d150b55715a9302f9ec34a6d701c73fef2473f82 but expected e464f43a7d75e62efe4587acf5af8f2fcf8d480e)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+b.io.git
  ! [rejected]        main -> main (fetch first)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 hint: Updates were rejected because the remote contains work that you do not
