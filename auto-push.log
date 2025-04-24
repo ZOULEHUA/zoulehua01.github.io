@@ -11838,16 +11838,9 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  1 file changed, 11 insertions(+), 6 deletions(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    95f5d57..cbb2a31  main -> main
-/
-	.python_history
-	.ssh/
-	.swiftpm/
-	.trae-aicc/
-	.trae/
-	.viminfo
-	.vscode/
-	.zprofile
-	.zprofile.pysave
+[main 47d1887] Auto-commit: 2025-04-23 17:08:20
+ 1 file changed, 87 insertions(+), 1 deletion(-)
+le.pysave
 	.zsh_history
 	.zsh_sessions/
 	.zshrc
