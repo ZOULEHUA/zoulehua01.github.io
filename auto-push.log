@@ -11372,9 +11372,9 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  1 file changed, 11 insertions(+), 2 deletions(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    9a497fa..bfcb805  main -> main
-rning: could not open directory '.Trash/': Operation not permitted
-On branch main
-Your branch is ahead of 'origin/main' by 1 commit.
+[main 2b3b374] Auto-commit: 2025-04-23 17:06:54
+ 1 file changed, 93 insertions(+), 1 deletion(-)
+ahead of 'origin/main' by 1 commit.
   (use "git push" to publish your local commits)
 
 Changes not staged for commit:
