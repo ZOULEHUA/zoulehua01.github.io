@@ -10533,33 +10533,10 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 [main 8e96878] Auto-commit: 2025-04-23 17:04:36
  1 file changed, 4 insertions(+), 21 deletions(-)
-/
-	.trae/
-	.viminfo
-	.vscode/
-	.zprofile
-	.zprofile.pysave
-	.zsh_history
-	.zsh_sessions/
-	.zshrc
-	AppData/
-	Applications/
-	Create
-	Desktop/
-	Documents/
-	Downloads/
-	JoplinBackup/
-	"Leo\345\244\247\347\216\213"
-	Library/
-	LibreTranslate/
-	Movies/
-	Music/
-	Pictures/
-	Public/
-	README.md
-	VERSION
-	WeChatProjects/
-	ai_completion/
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 8e968789f47568e47f86d182521c15bd56e37ae2 but expected b3cb981e8b6de4594f37fa3ca0b407ef0ca8e996)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+pletion/
 	"app \345\260\235\350\257\225\347\211\210/"
 	auto-push.log
 	get-pip.py
