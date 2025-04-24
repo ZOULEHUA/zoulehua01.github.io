@@ -11639,12 +11639,9 @@ may have crashed in this repository earlier:
 remove the file manually to continue.
 [main ed4e3a7] Auto-commit: 2025-04-23 17:07:41
  1 file changed, 85 insertions(+), 9 deletions(-)
-ins work that you do not
-hint: have locally. This is usually caused by another repository pushing to
-hint: the same ref. If you want to integrate the remote changes, use
-hint: 'git pull' before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-sleep: invalid time interval: git
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at ed4e3a7458e321436ce46dba54b1a3951e543a19 but expected 16f87e58c807385d4f8c9de2e1bdefbc68787a56)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 sleep: invalid time interval: add
 sleep: invalid time interval: .
 usage: sleep number[unit] [...]
