@@ -10444,28 +10444,10 @@ error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.githu
 Everything up-to-date
 [main e71042a] Auto-commit: 2025-04-23 17:04:19
  1 file changed, 2 insertions(+), 2 deletions(-)
- package.json
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	.CFUserTextEncoding
-	.DS_Store
-	.android/
-	.bash_history
-	.cache/
-	.config/
-	.cursor/
-	.docker/
-	.git-credentials
-	.gitconfig
-	.gitignore
-	.gomoku.py.swo
-	.gomoku.py.swp
-	.idlerc/
-	.ipython/
-	.local/
-	.matplotlib/
-	.mono/
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at e71042a14cf8d58070a96c6f73c2d6a9fab32bfc but expected 7ad8510fc9b5b010ce4c33fc3a4fdacbe854f0f0)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+/
 	.npm/
 	.ollama/
 	.pyenv/
