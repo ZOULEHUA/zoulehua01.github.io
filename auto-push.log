@@ -10373,14 +10373,9 @@ remove the file manually to continue.
 Everything up-to-date
 [main f6b861d] Auto-commit: 2025-04-23 17:04:07
  1 file changed, 86 insertions(+), 3 deletions(-)
-tignore
-	.gomoku.py.swo
-	.gomoku.py.swp
-	.idlerc/
-	.ipython/
-	.local/
-	.matplotlib/
-	.mono/
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+   46c0a4b..f6b861d  main -> main
+/
 	.npm/
 	.ollama/
 	.pyenv/
