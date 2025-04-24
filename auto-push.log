@@ -9282,14 +9282,15 @@ Untracked files:
 	zoulehua01.github.io/
 
 no changes added to commit (use "git add" and/or "git commit -a")
-ot lock ref 'refs/heads/main': is at 6ec027a5f5b6839022522cba3217159dcb8f9df6 but expected 7738655a5f17da85ca74c917a12dcf4b4d48df6c)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [rejected]        main -> main (fetch first)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
-fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
-
-Another git process seems to be running in this repository, e.g.
-an editor opened by 'git commit'. Please make sure all processes
-are terminated then try again. If it still fails, a git process
-may have crashed in this repository earlier:
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+ repository earlier:
 remove the file manually to continue.
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    6ec027a..e1b684c  main -> main
@@ -9397,3 +9398,6 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    6e1c77d..c6e1ac3  main -> main
 [main b250fae] Auto-commit: 2025-04-23 17:02:12
  1 file changed, 15 insertions(+), 10 deletions(-)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 1daa317745f7ad95c4b59a4885e98df5f54898d0 but expected c6e1ac3d99c1df6a6ca0add0e878e03b85c2ee83)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
