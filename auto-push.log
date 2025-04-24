@@ -9815,13 +9815,9 @@ error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.githu
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 26e580678bdfb6c0b9b637b68ae0ddba615bf63c but expected e46f253382c18e3c7928c10c01b263fb40292abe)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
-g
-	llama-models/
-	llama_model.bin
-	pyproject.toml
-	start_interpreter.command
-	watchdog.log
-	zoulehua.github.io/
+[main a2a556d] Auto-commit: 2025-04-23 17:02:37
+ 1 file changed, 12 insertions(+), 21 deletions(-)
+a.github.io/
 	zoulehua01.github.io/
 
 no changes added to commit (use "git add" and/or "git commit -a")
