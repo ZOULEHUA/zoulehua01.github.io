@@ -11079,15 +11079,10 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    efe46e2..7ae7afd  main -> main
 [main 57ce056] Auto-commit: 2025-04-23 17:06:08
  1 file changed, 11 insertions(+), 4 deletions(-)
-Operation not permitted
-On branch main
-Your branch is ahead of 'origin/main' by 1 commit.
-  (use "git push" to publish your local commits)
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   package-lock.json
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 57ce0567df01a9ca14612f854862158f9f4e38e5 but expected 7ae7afd0c51186c9a221c9415187ff9a1af3cab8)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+ackage-lock.json
 	modified:   package.json
 
 Untracked files:
@@ -20818,3 +20813,11 @@ Untracked files:
 	zoulehua01.github.io/
 
 no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
