@@ -10375,17 +10375,9 @@ Everything up-to-date
  1 file changed, 86 insertions(+), 3 deletions(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    46c0a4b..f6b861d  main -> main
-/
-	.npm/
-	.ollama/
-	.pyenv/
-	.python_history
-	.ssh/
-	.swiftpm/
-	.trae-aicc/
-	.trae/
-	.viminfo
-	.vscode/
+[main e48fc3a] Auto-commit: 2025-04-23 17:04:08
+ 1 file changed, 3 insertions(+), 8 deletions(-)
+scode/
 	.zprofile
 	.zprofile.pysave
 	.zsh_history
