@@ -7814,3 +7814,6 @@ Your branch is ahead of 'origin/main' by 3 commits.
   (use "git push" to publish your local commits)
 
 nothing to commit, working tree clean
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 28d35524e06a4b9a954bf222ccbd0c1a1d2be105 but expected 1168a114e5c3f7655bd130e4d344c5e68b22db92)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
