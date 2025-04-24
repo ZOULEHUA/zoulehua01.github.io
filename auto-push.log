@@ -9290,49 +9290,99 @@ hint: have locally. This is usually caused by another repository pushing to
 hint: the same ref. If you want to integrate the remote changes, use
 hint: 'git pull' before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
- repository earlier:
-remove the file manually to continue.
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   6ec027a..e1b684c  main -> main
-[main a7a0102] Auto-commit: 2025-04-23 17:01:53
- 1 file changed, 90 insertions(+), 29 deletions(-)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   e1b684c..a7a0102  main -> main
-[main 1b31ea0] Auto-commit: 2025-04-23 17:01:54
- 1 file changed, 86 insertions(+), 23 deletions(-)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   0895ddc..1b31ea0  main -> main
-[main 6beb47f] Auto-commit: 2025-04-23 17:01:55
- 1 file changed, 84 insertions(+), 29 deletions(-)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   8e12623..6beb47f  main -> main
-[main 54021b5] Auto-commit: 2025-04-23 17:01:56
- 1 file changed, 9 insertions(+), 7 deletions(-)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
- ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 54021b59db6c9ce0f5212c4ad3f29d4de4acc4a7 but expected c8e4628b589668638777dec119f0431cf0013ecc)
-error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
-[main a7945d8] Auto-commit: 2025-04-23 17:01:57
- 1 file changed, 11 insertions(+), 12 deletions(-)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   54021b5..a7945d8  main -> main
-fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
+sleep: invalid time interval: git
+sleep: invalid time interval: add
+sleep: invalid time interval: .
+usage: sleep number[unit] [...]
+Unit can be 's' (seconds, the default), m (minutes), h (hours), or d (days).
+warning: could not open directory '.Trash/': Operation not permitted
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
 
-Another git process seems to be running in this repository, e.g.
-an editor opened by 'git commit'. Please make sure all processes
-are terminated then try again. If it still fails, a git process
-may have crashed in this repository earlier:
-remove the file manually to continue.
-[main dbcc1ca] Auto-commit: 2025-04-23 17:01:58
- 1 file changed, 4 insertions(+)
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   package-lock.json
+	modified:   package.json
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.CFUserTextEncoding
+	.DS_Store
+	.android/
+	.bash_history
+	.cache/
+	.config/
+	.cursor/
+	.docker/
+	.git-credentials
+	.gitconfig
+	.gitignore
+	.gomoku.py.swo
+	.gomoku.py.swp
+	.idlerc/
+	.ipython/
+	.local/
+	.matplotlib/
+	.mono/
+	.npm/
+	.ollama/
+	.pyenv/
+	.python_history
+	.ssh/
+	.swiftpm/
+	.trae-aicc/
+	.trae/
+	.viminfo
+	.vscode/
+	.zprofile
+	.zprofile.pysave
+	.zsh_history
+	.zsh_sessions/
+	.zshrc
+	AppData/
+	Applications/
+	Create
+	Desktop/
+	Documents/
+	Downloads/
+	JoplinBackup/
+	"Leo\345\244\247\347\216\213"
+	Library/
+	LibreTranslate/
+	Movies/
+	Music/
+	Pictures/
+	Public/
+	README.md
+	VERSION
+	WeChatProjects/
+	ai_completion/
+	"app \345\260\235\350\257\225\347\211\210/"
+	auto-push.log
+	get-pip.py
+	ios_autorun.sh
+	libretranslate-env/
+	libretranslate.log
+	llama-models/
+	llama_model.bin
+	pyproject.toml
+	start_interpreter.command
+	watchdog.log
+	zoulehua.github.io/
+	zoulehua01.github.io/
+
+no changes added to commit (use "git add" and/or "git commit -a")
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   a7945d8..dbcc1ca  main -> main
-[main cc35d71] Auto-commit: 2025-04-23 17:01:59
- 1 file changed, 100 insertions(+), 36 deletions(-)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   dbcc1ca..cc35d71  main -> main
-[main c55c8ec] Auto-commit: 2025-04-23 17:02:00
- 1 file changed, 95 insertions(+), 45 deletions(-)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+ulehua01.github.io.git
    cc35d71..c55c8ec  main -> main
 [main 8000151] Auto-commit: 2025-04-23 17:02:01
  1 file changed, 84 insertions(+), 31 deletions(-)
@@ -9401,3 +9451,8 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 1daa317745f7ad95c4b59a4885e98df5f54898d0 but expected c6e1ac3d99c1df6a6ca0add0e878e03b85c2ee83)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+On branch main
+Your branch is ahead of 'origin/main' by 3 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
