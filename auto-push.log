@@ -29166,3 +29166,8 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  ! [remote rejected]   main -> main (cannot lock ref 'refs/heads/main': is at f4f12806a2de9eaec4e4d775f915b30cd1e809f2 but expected 3fc36550c4b3b492516f29308c887688d1ebe96a)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 Changes detected, committing...
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
