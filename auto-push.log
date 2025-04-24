@@ -743,7 +743,8 @@ Changes detected, committing...
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 3506aa4442f42c542085c2b8fd827fb0d8601221 but expected 70cab976f8bb4d906a9f178e7ef2ef24ed3e33ec)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
-remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at ed7018d81262551815d44f2c5806c22289bd8eae but expected 2efea187e7f1ae7d8053c5544f0ce80a679fedb7)
+Changes detected, committing...
+annot lock ref 'refs/heads/main': is at ed7018d81262551815d44f2c5806c22289bd8eae but expected 2efea187e7f1ae7d8053c5544f0ce80a679fedb7)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 Changes detected, committing...
 [main 3624d1b] Auto-commit: 2025-04-23 17:21:25
