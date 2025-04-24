@@ -7910,35 +7910,91 @@ hint: have locally. This is usually caused by another repository pushing to
 hint: the same ref. If you want to integrate the remote changes, use
 hint: 'git pull' before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-ulehua01.github.io.git'
-fatal: cannot lock ref 'HEAD': is at 24d6b6549decbf0bf47dea740ece9de809821440 but expected 3da517d8b4fc6c1a5d754a0110946392bc715849
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   3da517d..24d6b65  main -> main
-[main fd268dd] Auto-commit: 2025-04-23 17:00:19
- 1 file changed, 91 insertions(+), 1 deletion(-)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   24d6b65..fd268dd  main -> main
-fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
+sleep: invalid time interval: git
+sleep: invalid time interval: add
+sleep: invalid time interval: .
+usage: sleep number[unit] [...]
+Unit can be 's' (seconds, the default), m (minutes), h (hours), or d (days).
+warning: could not open directory '.Trash/': Operation not permitted
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
 
-Another git process seems to be running in this repository, e.g.
-an editor opened by 'git commit'. Please make sure all processes
-are terminated then try again. If it still fails, a git process
-may have crashed in this repository earlier:
-remove the file manually to continue.
-[main acd1ef0] Auto-commit: 2025-04-23 17:00:20
- 1 file changed, 87 insertions(+), 1 deletion(-)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
- ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at acd1ef07bd8ea3f521a28c216d1fbd37fca6b1d0 but expected 949eb144c97d9de505d8f06d082b0085d803fd00)
-error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
-[main 0ebb427] Auto-commit: 2025-04-23 17:00:22
- 1 file changed, 88 insertions(+), 1 deletion(-)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   acd1ef0..0ebb427  main -> main
-fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   package-lock.json
+	modified:   package.json
 
-Another git process seems to be running in this repository, e.g.
-an editor opened by 'git commit'. Please make sure all processes
-are terminated then try again. If it still fails, a git process
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.CFUserTextEncoding
+	.DS_Store
+	.android/
+	.bash_history
+	.cache/
+	.config/
+	.cursor/
+	.docker/
+	.git-credentials
+	.gitconfig
+	.gitignore
+	.gomoku.py.swo
+	.gomoku.py.swp
+	.idlerc/
+	.ipython/
+	.local/
+	.matplotlib/
+	.mono/
+	.npm/
+	.ollama/
+	.pyenv/
+	.python_history
+	.ssh/
+	.swiftpm/
+	.trae-aicc/
+	.trae/
+	.viminfo
+	.vscode/
+	.zprofile
+	.zprofile.pysave
+	.zsh_history
+	.zsh_sessions/
+	.zshrc
+	AppData/
+	Applications/
+	Create
+	Desktop/
+	Documents/
+	Downloads/
+	JoplinBackup/
+	"Leo\345\244\247\347\216\213"
+	Library/
+	LibreTranslate/
+	Movies/
+	Music/
+	Pictures/
+	Public/
+	README.md
+	VERSION
+	WeChatProjects/
+	ai_completion/
+	"app \345\260\235\350\257\225\347\211\210/"
+	auto-push.log
+	get-pip.py
+	ios_autorun.sh
+	libretranslate-env/
+	libretranslate.log
+	llama-models/
+	llama_model.bin
+	pyproject.toml
+	start_interpreter.command
+	watchdog.log
+	zoulehua.github.io/
+	zoulehua01.github.io/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
 [main ba674b3] Auto-commit: 2025-04-23 17:00:23
@@ -8459,3 +8515,8 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[main 7738655] Auto-commit: 2025-04-23 17:01:50
+ 1 file changed, 104 insertions(+), 36 deletions(-)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 7738655a5f17da85ca74c917a12dcf4b4d48df6c but expected 37c85f5cf2b7947375a6168935b1a41c9508fa16)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
