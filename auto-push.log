@@ -10945,7 +10945,74 @@ no changes added to commit (use "git add" and/or "git commit -a")
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 0505f31d483222ca8abc442f2154ae740fc09e25 but expected 49eebde59532e854c7c5e5a667c868e005704ca3)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
-ofile
+[main f86a1a1] Auto-commit: 2025-04-23 17:05:46
+ 1 file changed, 4 insertions(+), 29 deletions(-)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+   0505f31..f86a1a1  main -> main
+fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+
+no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+sleep: invalid time interval: git
+sleep: invalid time interval: add
+sleep: invalid time interval: .
+usage: sleep number[unit] [...]
+Unit can be 's' (seconds, the default), m (minutes), h (hours), or d (days).
+warning: could not open directory '.Trash/': Operation not permitted
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   package-lock.json
+	modified:   package.json
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.CFUserTextEncoding
+	.DS_Store
+	.android/
+	.bash_history
+	.cache/
+	.config/
+	.cursor/
+	.docker/
+	.git-credentials
+	.gitconfig
+	.gitignore
+	.gomoku.py.swo
+	.gomoku.py.swp
+	.idlerc/
+	.ipython/
+	.local/
+	.matplotlib/
+	.mono/
+	.npm/
+	.ollama/
+	.pyenv/
+	.python_history
+	.ssh/
+	.swiftpm/
+	.trae-aicc/
+	.trae/
+	.viminfo
+	.vscode/
+	.zprofile
 	.zprofile.pysave
 	.zsh_history
 	.zsh_sessions/
@@ -19631,11 +19698,3 @@ Untracked files:
 	zoulehua01.github.io/
 
 no changes added to commit (use "git add" and/or "git commit -a")
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
- ! [rejected]        main -> main (fetch first)
-error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
-hint: Updates were rejected because the remote contains work that you do not
-hint: have locally. This is usually caused by another repository pushing to
-hint: the same ref. If you want to integrate the remote changes, use
-hint: 'git pull' before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
