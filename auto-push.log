@@ -11274,8 +11274,8 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 [main bf4a770] Auto-commit: 2025-04-23 17:06:39
  1 file changed, 12 insertions(+), 27 deletions(-)
-	ios_autorun.sh
-	libretranslate-env/
+Everything up-to-date
+translate-env/
 	libretranslate.log
 	llama-models/
 	llama_model.bin
