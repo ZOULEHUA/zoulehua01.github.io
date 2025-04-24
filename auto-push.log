@@ -9994,15 +9994,9 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  1 file changed, 87 insertions(+), 8 deletions(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    9c415a2..003d081  main -> main
-rae/
-	.viminfo
-	.vscode/
-	.zprofile
-	.zprofile.pysave
-	.zsh_history
-	.zsh_sessions/
-	.zshrc
-	AppData/
+[main 378c70c] Auto-commit: 2025-04-23 17:03:08
+ 1 file changed, 3 insertions(+), 10 deletions(-)
+ta/
 	Applications/
 	Create
 	Desktop/
