@@ -11082,11 +11082,9 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 57ce0567df01a9ca14612f854862158f9f4e38e5 but expected 7ae7afd0c51186c9a221c9415187ff9a1af3cab8)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
-ackage-lock.json
-	modified:   package.json
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
+[main 0aeb1c4] Auto-commit: 2025-04-23 17:06:09
+ 1 file changed, 12 insertions(+), 9 deletions(-)
+ in what will be committed)
 	.CFUserTextEncoding
 	.DS_Store
 	.android/
