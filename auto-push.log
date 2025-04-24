@@ -11844,14 +11844,8 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    58c9ccc..47d1887  main -> main
 [main 5526106] Auto-commit: 2025-04-23 17:08:21
  1 file changed, 87 insertions(+), 8 deletions(-)
-	Movies/
-	Music/
-	Pictures/
-	Public/
-	README.md
-	VERSION
-	WeChatProjects/
-	ai_completion/
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+   9fe5d8f..5526106  main -> main
 	"app \345\260\235\350\257\225\347\211\210/"
 	auto-push.log
 	get-pip.py
