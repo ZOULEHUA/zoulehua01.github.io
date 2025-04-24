@@ -10751,15 +10751,9 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  1 file changed, 89 insertions(+), 7 deletions(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    23a7fcf..06c8df8  main -> main
-ig
-	.gitignore
-	.gomoku.py.swo
-	.gomoku.py.swp
-	.idlerc/
-	.ipython/
-	.local/
-	.matplotlib/
-	.mono/
+[main 8349198] Auto-commit: 2025-04-23 17:05:13
+ 1 file changed, 11 insertions(+), 8 deletions(-)
+
 	.npm/
 	.ollama/
 	.pyenv/
