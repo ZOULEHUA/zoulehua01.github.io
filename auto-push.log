@@ -7994,21 +7994,20 @@ Untracked files:
 	zoulehua01.github.io/
 
 no changes added to commit (use "git add" and/or "git commit -a")
-. If it still fails, a git process
-may have crashed in this repository earlier:
-remove the file manually to continue.
-[main ba674b3] Auto-commit: 2025-04-23 17:00:23
- 1 file changed, 13 insertions(+), 1 deletion(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   0ebb427..ba674b3  main -> main
-On branch main
-Your branch is ahead of 'origin/main' by 1 commit.
-  (use "git push" to publish your local commits)
-
-nothing to commit, working tree clean
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
- ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at b652997ff45680c339ef8b2a1b96e53892c34386 but expected ba674b398daddefc33d24e2c254805c39375bf02)
+ ! [rejected]        main -> main (fetch first)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+sleep: invalid time interval: git
+sleep: invalid time interval: add
+sleep: invalid time interval: .
+usage: sleep number[unit] [...]
+Unit can be 's' (seconds, the default), m (minutes), h (hours), or d (days).
+om/ZOULEHUA/zoulehua01.github.io.git'
 [main 770d069] Auto-commit: 2025-04-23 17:00:25
  1 file changed, 83 insertions(+), 1 deletion(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
@@ -8519,4 +8518,12 @@ remove the file manually to continue.
  1 file changed, 104 insertions(+), 36 deletions(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 7738655a5f17da85ca74c917a12dcf4b4d48df6c but expected 37c85f5cf2b7947375a6168935b1a41c9508fa16)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+On branch main
+Your branch is ahead of 'origin/main' by 3 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 6ec027a5f5b6839022522cba3217159dcb8f9df6 but expected 7738655a5f17da85ca74c917a12dcf4b4d48df6c)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
