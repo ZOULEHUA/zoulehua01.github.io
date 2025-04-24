@@ -10761,11 +10761,9 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    af54810..a66799c  main -> main
 [main ff58057] Auto-commit: 2025-04-23 17:05:15
  1 file changed, 87 insertions(+), 8 deletions(-)
-ERSION
-	WeChatProjects/
-	ai_completion/
-	"app \345\260\235\350\257\225\347\211\210/"
-	auto-push.log
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+   341617c..ff58057  main -> main
+-push.log
 	get-pip.py
 	ios_autorun.sh
 	libretranslate-env/
