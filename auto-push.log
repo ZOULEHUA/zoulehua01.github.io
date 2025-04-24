@@ -11848,12 +11848,9 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    9fe5d8f..5526106  main -> main
 [main a1009a9] Auto-commit: 2025-04-23 17:08:22
  1 file changed, 2 insertions(+), 8 deletions(-)
-nslate-env/
-	libretranslate.log
-	llama-models/
-	llama_model.bin
-	pyproject.toml
-	start_interpreter.command
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+   cbd2f84..a1009a9  main -> main
+erpreter.command
 	watchdog.log
 	zoulehua.github.io/
 	zoulehua01.github.io/
@@ -27131,3 +27128,11 @@ Untracked files:
 	zoulehua01.github.io/
 
 no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
