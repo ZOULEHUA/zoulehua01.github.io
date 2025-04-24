@@ -2340,3 +2340,4 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 92e3ca70bca0e5b748c9a9b0a5521861be333d1a but expected c3bf58c70355c7acd8463f59b1fa118d805df515)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 Changes detected, committing...
+fatal: cannot lock ref 'HEAD': is at 498a6e7d5e9812768e3c70de19d7749fa87b3de0 but expected caf7b753c7eee646795e29197c29be65990eaf4c
