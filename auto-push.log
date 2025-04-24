@@ -10017,16 +10017,10 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 [main b5152d7] Auto-commit: 2025-04-23 17:03:12
  1 file changed, 4 insertions(+), 7 deletions(-)
-ch is ahead of 'origin/main' by 1 commit.
-  (use "git push" to publish your local commits)
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   package-lock.json
-	modified:   package.json
-
-Untracked files:
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at b5152d7a5639c0c3699bd5ab310eddab738a0040 but expected 9ba2f246c9fa4638ca47cf4366825a2253310720)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+acked files:
   (use "git add <file>..." to include in what will be committed)
 	.CFUserTextEncoding
 	.DS_Store
