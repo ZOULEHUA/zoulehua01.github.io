@@ -10301,24 +10301,15 @@ remove the file manually to continue.
  1 file changed, 24 insertions(+), 24 deletions(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    3a48bbc..69fa5ba  main -> main
-0\235\350\257\225\347\211\210/"
-	auto-push.log
-	get-pip.py
-	ios_autorun.sh
-	libretranslate-env/
-	libretranslate.log
-	llama-models/
-	llama_model.bin
-	pyproject.toml
-	start_interpreter.command
-	watchdog.log
-	zoulehua.github.io/
-	zoulehua01.github.io/
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
 
-no changes added to commit (use "git add" and/or "git commit -a")
+nothing to commit, working tree clean
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
- ! [rejected]        main -> main (fetch first)
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at c0662abbde12d24d688c9925b9643814498e9d78 but expected 69fa5ba4628f83f9e83a349e3391a3e785bd57c1)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+om/ZOULEHUA/zoulehua01.github.io.git'
 hint: Updates were rejected because the remote contains work that you do not
 hint: have locally. This is usually caused by another repository pushing to
 hint: the same ref. If you want to integrate the remote changes, use
@@ -14089,3 +14080,16 @@ Untracked files:
 	zoulehua01.github.io/
 
 no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+sleep: invalid time interval: git
+sleep: invalid time interval: add
+sleep: invalid time interval: .
+usage: sleep number[unit] [...]
+Unit can be 's' (seconds, the default), m (minutes), h (hours), or d (days).
