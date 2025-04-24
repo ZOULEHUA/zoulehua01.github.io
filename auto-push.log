@@ -5968,3 +5968,6 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 Changes detected, committing...
 [main 8d4583f9] Auto-commit: 2025-04-23 23:22:34
  1 file changed, 1 insertion(+)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected]   main -> main (cannot lock ref 'refs/heads/main': is at 4ed17cd8d7522efeb8a4bd82d4cd1308e269291d but expected 63ca6792b53217b1d8e7034a8a556220af2a2dba)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
