@@ -9868,15 +9868,10 @@ may have crashed in this repository earlier:
 remove the file manually to continue.
 [main a311270] Auto-commit: 2025-04-23 17:02:44
  1 file changed, 43 insertions(+), 1 deletion(-)
-tails.
-sleep: invalid time interval: git
-sleep: invalid time interval: add
-sleep: invalid time interval: .
-usage: sleep number[unit] [...]
-Unit can be 's' (seconds, the default), m (minutes), h (hours), or d (days).
-warning: could not open directory '.Trash/': Operation not permitted
-On branch main
-Your branch is ahead of 'origin/main' by 1 commit.
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at a311270e49ce119fde0b7828e2461bdc0eac8837 but expected fce46a46078887fee31311573bc49304fd05e23e)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+ad of 'origin/main' by 1 commit.
   (use "git push" to publish your local commits)
 
 Changes not staged for commit:
