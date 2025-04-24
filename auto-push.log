@@ -11154,15 +11154,9 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    95020bf..e67a408  main -> main
 [main 792a60a] Auto-commit: 2025-04-23 17:06:20
  1 file changed, 86 insertions(+), 9 deletions(-)
-sessions/
-	.zshrc
-	AppData/
-	Applications/
-	Create
-	Desktop/
-	Documents/
-	Downloads/
-	JoplinBackup/
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+   0f4f600..792a60a  main -> main
+inBackup/
 	"Leo\345\244\247\347\216\213"
 	Library/
 	LibreTranslate/
