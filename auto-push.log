@@ -9873,16 +9873,10 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 [main aa444e1] Auto-commit: 2025-04-23 17:02:45
  1 file changed, 4 insertions(+), 9 deletions(-)
-aged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   package-lock.json
-	modified:   package.json
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	.CFUserTextEncoding
-	.DS_Store
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at aa444e196c5fd32db218e079fa28399f779fb13b but expected a311270e49ce119fde0b7828e2461bdc0eac8837)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+ore
 	.android/
 	.bash_history
 	.cache/
