@@ -10415,33 +10415,10 @@ may have crashed in this repository earlier:
 remove the file manually to continue.
 [main e5e179c] Auto-commit: 2025-04-23 17:04:12
  1 file changed, 92 insertions(+), 2 deletions(-)
-no/
-	.npm/
-	.ollama/
-	.pyenv/
-	.python_history
-	.ssh/
-	.swiftpm/
-	.trae-aicc/
-	.trae/
-	.viminfo
-	.vscode/
-	.zprofile
-	.zprofile.pysave
-	.zsh_history
-	.zsh_sessions/
-	.zshrc
-	AppData/
-	Applications/
-	Create
-	Desktop/
-	Documents/
-	Downloads/
-	JoplinBackup/
-	"Leo\345\244\247\347\216\213"
-	Library/
-	LibreTranslate/
-	Movies/
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at e5e179ca9c11f9502e8ac452ef9d409ccff5f2cb but expected 771f502ca16dd5bffc57951f34b686d7eee855b0)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+es/
 	Music/
 	Pictures/
 	Public/
