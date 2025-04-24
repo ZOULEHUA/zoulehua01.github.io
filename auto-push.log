@@ -9715,15 +9715,9 @@ Untracked files:
 	Desktop/
 	DocumeTo https://github.com/ZOULEHUA/zoulehua01.github.io.git
    114ff8a..75b323f  main -> main
-	Movies/
-	Music/
-	Pictures/
-	Public/
-	README.md
-	VERSION
-	WeChatProjects/
-	ai_completion/
-	"app \345\260\235\350\257\225\347\211\210/"
+[main bf1c3e6] Auto-commit: 2025-04-23 17:02:21
+ 1 file changed, 86 insertions(+), 11 deletions(-)
+5\260\235\350\257\225\347\211\210/"
 	auto-push.log
 	get-pip.py
 	ios_autorun.sh
