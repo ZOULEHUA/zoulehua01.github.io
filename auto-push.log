@@ -10556,28 +10556,10 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 [main fab2bef] Auto-commit: 2025-04-23 17:04:41
  1 file changed, 83 insertions(+), 9 deletions(-)
-d:   package.json
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	.CFUserTextEncoding
-	.DS_Store
-	.android/
-	.bash_history
-	.cache/
-	.config/
-	.cursor/
-	.docker/
-	.git-credentials
-	.gitconfig
-	.gitignore
-	.gomoku.py.swo
-	.gomoku.py.swp
-	.idlerc/
-	.ipython/
-	.local/
-	.matplotlib/
-	.mono/
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at fab2befe3e9f239c139a176d18598dfb742d779a but expected 3c75a7e2c46359aecc36590a1e6cae1720e484aa)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+mono/
 	.npm/
 	.ollama/
 	.pyenv/
