@@ -8186,38 +8186,91 @@ hint: have locally. This is usually caused by another repository pushing to
 hint: the same ref. If you want to integrate the remote changes, use
 hint: 'git pull' before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-.com/ZOULEHUA/zoulehua01.github.io.git'
-[main 9a1281a] Auto-commit: 2025-04-23 17:00:36
- 1 file changed, 3 insertions(+)
-Everything up-to-date
-[main 13843c5] Auto-commit: 2025-04-23 17:00:36
- 1 file changed, 1 insertion(+)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   9a1281a..13843c5  main -> main
-[main 9145df1] Auto-commit: 2025-04-23 17:00:37
- 1 file changed, 13 insertions(+), 1 deletion(-)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   13843c5..9145df1  main -> main
-[main 6c05c83] Auto-commit: 2025-04-23 17:00:38
- 1 file changed, 97 insertions(+), 1 deletion(-)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   9145df1..6c05c83  main -> main
-[main 5f8b09c] Auto-commit: 2025-04-23 17:00:39
- 1 file changed, 95 insertions(+), 1 deletion(-)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
- ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 3fcbfa5ba87d5f442b940bd74e4a97b22f4fadf4 but expected 424016ec88916c3f38499f8cc947961c8755ae93)
-error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+sleep: invalid time interval: git
+sleep: invalid time interval: add
+sleep: invalid time interval: .
+usage: sleep number[unit] [...]
+Unit can be 's' (seconds, the default), m (minutes), h (hours), or d (days).
+warning: could not open directory '.Trash/': Operation not permitted
 On branch main
-Your branch is ahead of 'origin/main' by 4 commits.
+Your branch is ahead of 'origin/main' by 1 commit.
   (use "git push" to publish your local commits)
 
-nothing to commit, working tree clean
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
- ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at cecfc8e507d8a61454fcb80b51b4f012de1a0242 but expected 3fcbfa5ba87d5f442b940bd74e4a97b22f4fadf4)
-error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
-On branch main
-Your branch is ahead of 'origin/main' by 5 commits.
-  (use "git push" to publish your local commits)
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   package-lock.json
+	modified:   package.json
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.CFUserTextEncoding
+	.DS_Store
+	.android/
+	.bash_history
+	.cache/
+	.config/
+	.cursor/
+	.docker/
+	.git-credentials
+	.gitconfig
+	.gitignore
+	.gomoku.py.swo
+	.gomoku.py.swp
+	.idlerc/
+	.ipython/
+	.local/
+	.matplotlib/
+	.mono/
+	.npm/
+	.ollama/
+	.pyenv/
+	.python_history
+	.ssh/
+	.swiftpm/
+	.trae-aicc/
+	.trae/
+	.viminfo
+	.vscode/
+	.zprofile
+	.zprofile.pysave
+	.zsh_history
+	.zsh_sessions/
+	.zshrc
+	AppData/
+	Applications/
+	Create
+	Desktop/
+	Documents/
+	Downloads/
+	JoplinBackup/
+	"Leo\345\244\247\347\216\213"
+	Library/
+	LibreTranslate/
+	Movies/
+	Music/
+	Pictures/
+	Public/
+	README.md
+	VERSION
+	WeChatProjects/
+	ai_completion/
+	"app \345\260\235\350\257\225\347\211\210/"
+	auto-push.log
+	get-pip.py
+	ios_autorun.sh
+	libretranslate-env/
+	libretranslate.log
+	llama-models/
+	llama_model.bin
+	pyproject.toml
+	start_interpreter.command
+	watchdog.log
+	zoulehua.github.io/
+	zoulehua01.github.io/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+"git push" to publish your local commits)
 
 nothing to commit, working tree clean
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
@@ -8655,3 +8708,5 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    e1b684c..a7a0102  main -> main
 [main 1b31ea0] Auto-commit: 2025-04-23 17:01:54
  1 file changed, 86 insertions(+), 23 deletions(-)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+   0895ddc..1b31ea0  main -> main
