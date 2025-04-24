@@ -767,8 +767,9 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 90eb2d5fd95eb2bc765c7eb5c1d8f12b63e5b68e but expected e265e82dcab5c09d6117a89ca1843ffc8393e7f2)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 Changes detected, committing...
-54f8b0419d558280f39ff4da4f)
-error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+[main 332109b] Auto-commit: 2025-04-23 17:25:24
+ 1 file changed, 90 insertions(+), 2 deletions(-)
+ua01.github.io.git'
 Changes detected, committing...
 fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
 
@@ -1267,7 +1268,8 @@ Changes detected, committing...
  1 file changed, 90 insertions(+), 3 deletions(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    90eb2d5..cec7983  main -> main
- changed, 0 insertions(+), 0 deletions(-)
+Changes detected, committing...
+etions(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    54d0027..d7156db  main -> main
 Changes detected, committing...
