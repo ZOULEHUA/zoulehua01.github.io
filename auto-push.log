@@ -8007,42 +8007,94 @@ sleep: invalid time interval: add
 sleep: invalid time interval: .
 usage: sleep number[unit] [...]
 Unit can be 's' (seconds, the default), m (minutes), h (hours), or d (days).
-om/ZOULEHUA/zoulehua01.github.io.git'
-[main 770d069] Auto-commit: 2025-04-23 17:00:25
- 1 file changed, 83 insertions(+), 1 deletion(-)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
- ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 770d0698557063215c58de5a7b7c8f1c05bacc97 but expected b652997ff45680c339ef8b2a1b96e53892c34386)
-error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
-[main e3e0d58] Auto-commit: 2025-04-23 17:00:26
- 1 file changed, 3 insertions(+)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   770d069..e3e0d58  main -> main
+warning: could not open directory '.Trash/': Operation not permitted
 On branch main
 Your branch is ahead of 'origin/main' by 1 commit.
   (use "git push" to publish your local commits)
 
-nothing to commit, working tree clean
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   e3e0d58..8a0e207  main -> main
-fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   package-lock.json
+	modified:   package.json
 
-Another git process seems to be running in this repository, e.g.
-an editor opened by 'git commit'. Please make sure all processes
-are terminated then try again. If it still fails, a git process
-may have crashed in this repository earlier:
-remove the file manually to continue.
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.CFUserTextEncoding
+	.DS_Store
+	.android/
+	.bash_history
+	.cache/
+	.config/
+	.cursor/
+	.docker/
+	.git-credentials
+	.gitconfig
+	.gitignore
+	.gomoku.py.swo
+	.gomoku.py.swp
+	.idlerc/
+	.ipython/
+	.local/
+	.matplotlib/
+	.mono/
+	.npm/
+	.ollama/
+	.pyenv/
+	.python_history
+	.ssh/
+	.swiftpm/
+	.trae-aicc/
+	.trae/
+	.viminfo
+	.vscode/
+	.zprofile
+	.zprofile.pysave
+	.zsh_history
+	.zsh_sessions/
+	.zshrc
+	AppData/
+	Applications/
+	Create
+	Desktop/
+	Documents/
+	Downloads/
+	JoplinBackup/
+	"Leo\345\244\247\347\216\213"
+	Library/
+	LibreTranslate/
+	Movies/
+	Music/
+	Pictures/
+	Public/
+	README.md
+	VERSION
+	WeChatProjects/
+	ai_completion/
+	"app \345\260\235\350\257\225\347\211\210/"
+	auto-push.log
+	get-pip.py
+	ios_autorun.sh
+	libretranslate-env/
+	libretranslate.log
+	llama-models/
+	llama_model.bin
+	pyproject.toml
+	start_interpreter.command
+	watchdog.log
+	zoulehua.github.io/
+	zoulehua01.github.io/
+
+no changes added to commit (use "git add" and/or "git commit -a")
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
- ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 1afbaf155297e4b3101971ce2e3f257e29b458ac but expected 8a0e20724b76bc0735e8508b0443fe9fb1c70393)
+ ! [rejected]        main -> main (fetch first)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
-[main 331bfe3] Auto-commit: 2025-04-23 17:00:29
- 1 file changed, 3 insertions(+)
-To https://github.com/ZOULEHUA/zoulehua01.github.io.git
-   1afbaf1..331bfe3  main -> main
-fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
-
-Another git process seems to be running in this repository, e.g.
-an editor opened by 'git commit'. Please make sure all processes
-are terminated then try again. If it still fails, a git process
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+n. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
@@ -8527,3 +8579,12 @@ nothing to commit, working tree clean
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 6ec027a5f5b6839022522cba3217159dcb8f9df6 but expected 7738655a5f17da85ca74c917a12dcf4b4d48df6c)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+   6ec027a..e1b684c  main -> main
