@@ -3659,3 +3659,6 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 1afbaf155297e4b3101971ce2e3f257e29b458ac but expected 8a0e20724b76bc0735e8508b0443fe9fb1c70393)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
