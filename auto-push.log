@@ -18033,3 +18033,4 @@ remove the file manually to continue.
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  ! [remote rejected]   main -> main (cannot lock ref 'refs/heads/main': is at 6940e7e1df1b6337098a2aa5e591bd273a800e42 but expected f93c9666b704edb1bd1aef3af23717ff26411f93)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+Changes detected, committing...
