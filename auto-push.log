@@ -13279,3 +13279,10 @@ Changes detected, committing...
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    fa9f84f1..adb455b3  main -> main
 Changes detected, committing...
+fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
