@@ -10795,36 +10795,12 @@ remove the file manually to continue.
  1 file changed, 80 insertions(+), 1 deletion(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    cb64c3a..5f1c653  main -> main
-info
-	.vscode/
-	.zprofile
-	.zprofile.pysave
-	.zsh_history
-	.zsh_sessions/
-	.zshrc
-	AppData/
-	Applications/
-	Create
-	Desktop/
-	Documents/
-	Downloads/
-	JoplinBackup/
-	"Leo\345\244\247\347\216\213"
-	Library/
-	LibreTranslate/
-	Movies/
-	Music/
-	Pictures/
-	Public/
-	README.md
-	VERSION
-	WeChatProjects/
-	ai_completion/
-	"app \345\260\235\350\257\225\347\211\210/"
-	auto-push.log
-	get-pip.py
-	ios_autorun.sh
-	libretranslate-env/
+[main 597d688] Auto-commit: 2025-04-23 17:05:21
+ 1 file changed, 80 insertions(+), 9 deletions(-)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 597d688714f6f3e4dab8a39661d3b0b405e69d91 but expected 5f1c653ce7e8824374bfc6e80f1e2829a0ccf563)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+env/
 	libretranslate.log
 	llama-models/
 	llama_model.bin
@@ -18471,3 +18447,11 @@ Untracked files:
 	zoulehua01.github.io/
 
 no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
