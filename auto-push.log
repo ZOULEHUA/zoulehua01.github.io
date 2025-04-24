@@ -10773,11 +10773,10 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    fd77f41..b1e84d4  main -> main
 [main 826112e] Auto-commit: 2025-04-23 17:05:18
  1 file changed, 88 insertions(+), 5 deletions(-)
-hint: Updates were rejected because the remote contains work that you do not
-hint: have locally. This is usually caused by another repository pushing to
-hint: the same ref. If you want to integrate the remote changes, use
-hint: 'git pull' before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 1f7b93ed846f5f5fa9ce836361aea7584ea145ea but expected b1e84d4975b222e87ae6a724444c3331d7cdb4e9)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+elp' for details.
 sleep: invalid time interval: git
 sleep: invalid time interval: add
 sleep: invalid time interval: .
@@ -18314,3 +18313,11 @@ Untracked files:
 	zoulehua01.github.io/
 
 no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
