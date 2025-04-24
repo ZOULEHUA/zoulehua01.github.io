@@ -11525,14 +11525,10 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 [main 1843caa] Auto-commit: 2025-04-23 17:07:21
  1 file changed, 4 insertions(+), 8 deletions(-)
-r branch is ahead of 'origin/main' by 1 commit.
-  (use "git push" to publish your local commits)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 1843caa2deed67a789fe39fa04d403bd82594f24 but expected de90cd2af203ad0ca34389258d4b53555505f58e)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   package-lock.json
-	modified:   package.json
 
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
@@ -24298,3 +24294,11 @@ Untracked files:
 	zoulehua01.github.io/
 
 no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
