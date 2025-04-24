@@ -9466,16 +9466,15 @@ Untracked files:
 	zoulehua01.github.io/
 
 no changes added to commit (use "git add" and/or "git commit -a")
-c8 but expected 30ce6a964fe04ee1beaa241ca3d7f9f7ea5a0bd8)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [rejected]        main -> main (fetch first)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
-fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
-
-Another git process seems to be running in this repository, e.g.
-an editor opened by 'git commit'. Please make sure all processes
-are terminated then try again. If it still fails, a git process
-may have crashed in this repository earlier:
-remove the file manually to continue.
-[main 4811d96] Auto-commit: 2025-04-23 17:02:07
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+uto-commit: 2025-04-23 17:02:07
  1 file changed, 97 insertions(+), 30 deletions(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 4811d9699f183833b024819c60ac311fc0571a8e but expected 2ffd709093479f9347987d805fe22fe2ffbc76c8)
@@ -9526,3 +9525,8 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[main 4b816df] Auto-commit: 2025-04-23 17:02:16
+ 1 file changed, 92 insertions(+), 25 deletions(-)
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 4b816df78fdfbe19cb8636d99fb86287a93c8d9b but expected a0e27d4b6632ed6aec6db9bdb8432081f7bc85cd)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
