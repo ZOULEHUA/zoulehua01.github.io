@@ -10022,36 +10022,10 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 [main f67f62d] Auto-commit: 2025-04-23 17:03:13
  1 file changed, 4 insertions(+), 10 deletions(-)
-
-	.DS_Store
-	.android/
-	.bash_history
-	.cache/
-	.config/
-	.cursor/
-	.docker/
-	.git-credentials
-	.gitconfig
-	.gitignore
-	.gomoku.py.swo
-	.gomoku.py.swp
-	.idlerc/
-	.ipython/
-	.local/
-	.matplotlib/
-	.mono/
-	.npm/
-	.ollama/
-	.pyenv/
-	.python_history
-	.ssh/
-	.swiftpm/
-	.trae-aicc/
-	.trae/
-	.viminfo
-	.vscode/
-	.zprofile
-	.zprofile.pysave
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at f67f62d622fad3b43bc5669eeee837d38597279d but expected b5152d7a5639c0c3699bd5ab310eddab738a0040)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+zprofile.pysave
 	.zsh_history
 	.zsh_sessions/
 	.zshrc
