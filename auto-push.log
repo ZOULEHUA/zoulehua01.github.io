@@ -11378,8 +11378,9 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    50b7583..2b3b374  main -> main
 [main a2ac34f] Auto-commit: 2025-04-23 17:06:55
  1 file changed, 87 insertions(+), 4 deletions(-)
-t restore <file>..." to discard changes in working directory)
-	modified:   package-lock.json
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+   cb85952..a2ac34f  main -> main
+on
 	modified:   package.json
 
 Untracked files:
@@ -23042,3 +23043,11 @@ Untracked files:
 	zoulehua01.github.io/
 
 no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
