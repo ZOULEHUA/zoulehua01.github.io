@@ -10383,30 +10383,19 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
  1 file changed, 89 insertions(+), 2 deletions(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
    4e27ed8..a08c1ad  main -> main
-Projects/
-	ai_completion/
-	"app \345\260\235\350\257\225\347\211\210/"
-	auto-push.log
-	get-pip.py
-	ios_autorun.sh
-	libretranslate-env/
-	libretranslate.log
-	llama-models/
-	llama_model.bin
-	pyproject.toml
-	start_interpreter.command
-	watchdog.log
-	zoulehua.github.io/
-	zoulehua01.github.io/
+fatal: Unable to create '/Users/zlh/zoulehua01.github.io/.git/index.lock': File exists.
 
-no changes added to commit (use "git add" and/or "git commit -a")
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 610fe65] Auto-commit: 2025-04-23 17:04:10
+ 1 file changed, 83 insertions(+), 10 deletions(-)
 To https://github.com/ZOULEHUA/zoulehua01.github.io.git
- ! [rejected]        main -> main (fetch first)
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 610fe65ccd0ff89e2c0d43e97fac025556762d0f but expected a08c1adcd3d6a9a979955e7cc397bb2902fb8871)
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
-hint: Updates were rejected because the remote contains work that you do not
-hint: have locally. This is usually caused by another repository pushing to
-hint: the same ref. If you want to integrate the remote changes, use
-hint: 'git pull' before pushing again.
+ull' before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 sleep: invalid time interval: git
 sleep: invalid time interval: add
@@ -14909,3 +14898,11 @@ Untracked files:
 	zoulehua01.github.io/
 
 no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
