@@ -11089,29 +11089,10 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 [main cd04e89] Auto-commit: 2025-04-23 17:06:10
  1 file changed, 71 insertions(+), 9 deletions(-)
-hrc
-	AppData/
-	Applications/
-	Create
-	Desktop/
-	Documents/
-	Downloads/
-	JoplinBackup/
-	"Leo\345\244\247\347\216\213"
-	Library/
-	LibreTranslate/
-	Movies/
-	Music/
-	Pictures/
-	Public/
-	README.md
-	VERSION
-	WeChatProjects/
-	ai_completion/
-	"app \345\260\235\350\257\225\347\211\210/"
-	auto-push.log
-	get-pip.py
-	ios_autorun.sh
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at cd04e8998e0ef6353460b9eeaf0bcb0b5f7f12d4 but expected 0aeb1c4a305bfc5a672b5b9a2b5a9ec7fe18eeaf)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+.sh
 	libretranslate-env/
 	libretranslate.log
 	llama-models/
