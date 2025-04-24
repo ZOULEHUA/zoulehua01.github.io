@@ -10832,34 +10832,10 @@ may have crashed in this repository earlier:
 remove the file manually to continue.
 [main cc7829a] Auto-commit: 2025-04-23 17:05:26
  1 file changed, 92 insertions(+), 1 deletion(-)
-.gitignore
-	.gomoku.py.swo
-	.gomoku.py.swp
-	.idlerc/
-	.ipython/
-	.local/
-	.matplotlib/
-	.mono/
-	.npm/
-	.ollama/
-	.pyenv/
-	.python_history
-	.ssh/
-	.swiftpm/
-	.trae-aicc/
-	.trae/
-	.viminfo
-	.vscode/
-	.zprofile
-	.zprofile.pysave
-	.zsh_history
-	.zsh_sessions/
-	.zshrc
-	AppData/
-	Applications/
-	Create
-	Desktop/
-	Documents/
+To https://github.com/ZOULEHUA/zoulehua01.github.io.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at cc7829a8cf40ee2c4e12658555274499f7a6773a but expected 7c01f232b83e1ee7f7c0f3655dd43371ffcea2c1)
+error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
+
 	Downloads/
 	JoplinBackup/
 	"Leo\345\244\247\347\216\213"
