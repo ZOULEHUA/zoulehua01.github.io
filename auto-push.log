@@ -11789,8 +11789,8 @@ To https://github.com/ZOULEHUA/zoulehua01.github.io.git
 error: failed to push some refs to 'https://github.com/ZOULEHUA/zoulehua01.github.io.git'
 [main 4e89aa6] Auto-commit: 2025-04-23 17:08:12
  1 file changed, 4 insertions(+), 7 deletions(-)
-, or d (days).
-warning: could not open directory '.Trash/': Operation not permitted
+Everything up-to-date
+: could not open directory '.Trash/': Operation not permitted
 On branch main
 Your branch is ahead of 'origin/main' by 1 commit.
   (use "git push" to publish your local commits)
